@@ -1,2 +1,6 @@
-# Proyecto7
-Proyecto de vehículos sprint 7
+# Proyecto de vehiculos Sprint 7
+Analizar las ventas de autos
+Realizar un grafico de dispersion
+Realizar un grafico de histograma
+
+Enlace a mi dashboard
